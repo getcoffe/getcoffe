@@ -1,4 +1,4 @@
-## Olá! I'm getcoffe
+## Olá! 👋
  <div>
   <a href="https://github.com/getcoffe">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=getcoffe&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
